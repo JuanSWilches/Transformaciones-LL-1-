@@ -1,7 +1,7 @@
 # Transformaciones-LL-1-
 *Participantes:*
 - Bryan Ariza
-- Manuel Cardena
+- Manuel Cardenas
 - Andres Toledo
 - Juan Wilches
 
